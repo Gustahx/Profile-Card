@@ -1,0 +1,27 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 350px;
+    margin: auto;
+    background-color: rgba(128, 128, 128, 0.868);
+    overflow: hidden;
+}
+header{
+    margin-top: 40px;
+    background-color: rgba(255, 255, 255, 0.644);
+}
+section{
+    background-color: rgba(255, 255, 255, 0.644);
+    text-align: center;
+    padding: 10px;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+    padding: 3px;
+    border-radius: 3px;
+}
